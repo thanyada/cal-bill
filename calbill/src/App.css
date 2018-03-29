@@ -49,9 +49,9 @@
 
 .App-footer {
   background-color: #222;
-  height: 30px;
   padding: 5px;
   font-size: 0.5em;
+  text-align: right;
   color: white;
 }
 
@@ -65,7 +65,7 @@
 .Stlye-Input {
   margin:5px;
   padding:10px;
-  width: 50px;
+  width: 60px;
   text-align: center;
 }
 

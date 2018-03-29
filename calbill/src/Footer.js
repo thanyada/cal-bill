@@ -6,8 +6,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="App-footer">
-         <p>Thanyada chodanon</p>
-         <p>Thanyada chodanon</p>
+         <p>Thanyada chodanon <br/> Scale 360</p>
       </div>
     );
   }
